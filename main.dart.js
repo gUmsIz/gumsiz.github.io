@@ -78887,7 +78887,7 @@ p=l.f
 p===$&&A.a()
 o=l.r
 o===$&&A.a()
-n=A.azS("http","gumsiz.hol.es","testmail.php",A.aA(["sender",k,"email",p,"message",o],t.N,t.z))
+n=A.azS("https","mail.semihdurmaz.com","",A.aA(["sender",k,"email",p,"message",o],t.N,t.z))
 l.af(new A.a8d(l))
 s=4
 return A.V(A.aCH(n),$async$$0)
